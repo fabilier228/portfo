@@ -10,4 +10,9 @@
 /*# sourceMappingURL=main.70a66962.map*/
 .btn-default {
     margin: 5px;
+    cursor: default;
+}
+
+.carousel-control {
+    top: 270px;
 }
