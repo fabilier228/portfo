@@ -16,3 +16,7 @@
 .carousel-control {
     top: 270px;
 }
+
+.ends {
+    display: flex;
+}
